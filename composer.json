@@ -1,0 +1,21 @@
+{
+    "name": "zhoudongchuang/uploadfile",
+    "description": "文件上传composer件",
+    "type": "library",
+    "require": {
+        "php": "^7.1@RC"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "周东闯",
+            "email": "zhoudongchuang@51shebao.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+    	"psr-4": {
+         "Zhoudongchuang\\": "src/"
+    	}	
+    }
+}
