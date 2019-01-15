@@ -1,7 +1,7 @@
 <?php
 /**
  * 通用文件上传类
- * @author zhoudongchuang <zhoudongchuang@51shebao.com>
+ * @author zhoudongchuang <zhoudongchuang@***.com>
  */
 namespace Zhoudongchuang;  // 注意命名空间与 composer.json 中的一致
 
